@@ -1,7 +1,7 @@
 # awesome-bot
 
-** Under construction **
-** [Ruby Version](https://github.com/dkhamsing/awesome_bot) **
+**Under construction**
+**[Ruby Version](https://github.com/dkhamsing/awesome_bot)**
 
 Verify links in [awesome](status/status.md) projects
 
