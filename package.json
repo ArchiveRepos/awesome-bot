@@ -1,0 +1,26 @@
+{
+  "name": "awesome-bot",
+  "version": "0.1.0",
+  "description": "Verify links in awesome projects",
+  "main": "lib/awesome-bot",
+  "bin": {
+    "awesome-bot": "./bin/awesome-bot"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahDragon/awesome-bot.git"
+  },
+  "keywords": [
+    "awesome",
+    "bot"
+  ],
+  "author": "Abner Chou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahDragon/awesome-bot/issues"
+  },
+  "homepage": "https://github.com/NoahDragon/awesome-bot#readme"
+}
